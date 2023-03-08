@@ -1,0 +1,15 @@
+#hd{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px auto;
+}
+#h{
+    text-decoration: none;
+    box-sizing: border-box;
+    padding: 50px;
+    margin: 40px;
+    border: 2px solid black;
+
+}

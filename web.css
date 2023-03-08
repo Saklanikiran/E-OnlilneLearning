@@ -1,0 +1,31 @@
+.container{
+    margin: auto;
+    display: block;
+    border: 2px solid blue;
+    background-color: azure;
+    padding-left: 35px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+#firstheading{
+    margin-left: 34px;
+    margin-top: 0px;
+
+}
+#first{
+    margin-left: auto;
+}
+table{
+    border: 2px solid gold;
+    max-width: 300px;
+
+}
+th td{
+    border: 2px solid rgb(85, 17, 112);
+    border-color: turquoise;
+    border-top:2px solid red ;
+}
+p{
+    margin-left: 30px;
+
+}

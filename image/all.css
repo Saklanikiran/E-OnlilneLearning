@@ -1,0 +1,42 @@
+#head{
+    text-align: center;
+}
+
+#nav ul li a{
+    content: " ";
+    
+    margin: 30px 12px;
+    color: black;
+    text-decoration: none;
+    background-color: white;
+
+
+}
+#nav ul li a:hover{
+    
+    color: white;
+    text-decoration: none;
+
+}
+.container{
+    /*border: 3px solid black;*/
+    width: 10%;
+    display: flex;
+    
+
+}
+*{
+    background: url('../image/kiran.png' ) no-repeat center center/cover ;
+}
+h1{
+    text-align: center;
+    background-color: beige;
+}
+#tx{
+    float: none;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    border: 2px solid black;
+    display: flex;
+}
